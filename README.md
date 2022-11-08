@@ -1,4 +1,4 @@
-# Narrow road simulation with threads
+# Narrow road simulation
 *cs345 course - Computer Science Department - University Of Crete*
 
 # Brief explanation
